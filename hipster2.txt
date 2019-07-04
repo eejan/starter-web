@@ -6,3 +6,7 @@ adding more text
 adding addtional files
 
 more text
+
+more text2
+
+adding text while previouls file is not commit yet
