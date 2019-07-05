@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+modify for auto-merge
 add README  
 This repository is for showing how Git and GitHub work
 show me how to use git 
