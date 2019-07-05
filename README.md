@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+add README  
 This repository is for showing how Git and GitHub work
 show me how to use git 
 ## Introduction
