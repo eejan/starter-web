@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    EE Jan
     <name> -- <role> -- <twitter>
 
 # THANKS
