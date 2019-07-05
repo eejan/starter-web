@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+Add something for merge conflict
 modify for auto-merge
 add README  
 This repository is for showing how Git and GitHub work
